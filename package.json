@@ -1,23 +1,23 @@
 {
-  "name": "BMW-XMD",
+  "name": "Kévøø😜-Md",
   "version": "2.0.0",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "Kévøø.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "s": "node ibrahim.js",
-    "bmwmd": "pm2 start ibrahim.js --attach --max-memory-restart 490M",
+    "test": "echo \"i'kevoo whatsappbot\"https://telegra.ph/file/404fdaacd6d345d368155.jpg\" && exit 1",
+    "s": "node Kévøø.js",
+    "bmwmd": "pm2 start Kévøø.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "BMW-Md",
+    "Kévøø😜-Md",
     "whatsapp",
     "whatsapp-bot",
-    "ibrahimadams"
+    "Kévøø"
   ],
-  "author": "ibrahimaitech",
+  "author": "Kévøøtech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
