@@ -52,7 +52,7 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/kevoomedia/K-v--Md.git/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/kevoomedia/K-v--Md/blob/main/K%C3%ABv%C3%B8%C3%B8%F0%9F%98%9C.md)
 
 2, TAP ON Këvøø TECH APP DOWN THERE
 
