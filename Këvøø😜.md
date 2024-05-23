@@ -28,7 +28,7 @@ click on "https://github.com/kevoomedia/K-v--Md.git"/> to get repo
  [QR] ***[`TAP HERE TO SCAN QR`](https://bmw-code-app-c1168f4953cd.herokuapp.com/qr)***
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://telegra.ph/file/88ad273e040f262fe69ad.jpg'/></a>
 ## Support 😜 😜 😜 😜
 ## Join my channel for updates and get free cc
 <a href="https://whatsapp.com/channel/0029VaauR3bIHphNVGavRg2O" target="_blank">
