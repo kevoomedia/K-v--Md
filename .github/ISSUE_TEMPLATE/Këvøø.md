@@ -1,6 +1,6 @@
 ---
-name: Kévøø-Md report
-about: Hi there i'm Kévøø😜-md whatsapop bot
+name: Këvøø-Md report
+about: Hi there i'm Këvøø-md whatsapop bot
 title: 'Këvøø-Md'
 labels: ''
 assignees: ''
@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 **Here Këvøø-Md**
-A clear way to deploy Këvøø-Md
+*A clear way to deploy Këvøø-Md on heroku just click* 👇👇👇👇👇👇👇👇👇👇👇                    https://dashboard.heroku.com/new?template=https://github.com/kevoomedia/K-v--Md
 
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '.Këvøø..'
-2. Click on 'https://github.com/kevoomedia/K-v--Md.git'
-3. Scroll down to '..deploy on heroku..'
+2. Click on 'https://github.com/kevoomedia/K-v--Md'
+   *"just support me by fork to my repo"* 👇👇     https://github.com/kevoomedia/K-v--Md/fork 
 4. See error
 
 **Expected behavior**
