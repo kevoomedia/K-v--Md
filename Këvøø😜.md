@@ -7,7 +7,7 @@ click on "https://github.com/kevoomedia/K-v--Md.git"/> to get repo
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Black&lines=THANK+YOU+FOR+CHOOSING+Kévøø+Md+Whatsapp+bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Black&lines=THANK+YOU+FOR+CHOOSING+Kévøø+Md/>Whatsapp+bot)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
