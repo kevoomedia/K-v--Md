@@ -41,7 +41,7 @@ HOW TO REACH THE OWNER?
  
    
    <a href="https://wa.me/255694854739">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
   </a>&nbsp;&nbsp;
    <a
 
@@ -80,7 +80,7 @@ HOW TO REACH THE OWNER?
 
 
   ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20IBRAHIM%20TECH%20APP-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>***
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20Këvøø%20TECH%20APP-Yellow?style=for-the-badge&logo=Këvøø" width="220" height="38.45"/></a></p>***
 
 
 
