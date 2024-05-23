@@ -55,16 +55,16 @@ france({ nomCom: "owner", categorie: "General", reaction: "🧔" }, async (dest,
   }
 });
 
-france({ nomCom: "developer", categorie: "General", reaction: "🚘" }, async (dest, zk, commandeOptions) => {
+france({ nomCom: "developer", categorie: "General", reaction: "💣" }, async (dest, zk, commandeOptions) => {
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "France King", numero: "254710772666" },
-      { nom: "᚛Ibrahimadams᚜", numero: "254710772666" },
+      { nom: "Këvøø", numero: "255712682559" },
+      { nom: "Kevoo support", numero: "255694854739" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "its këvøø md here\n *Welcome to këvøø-Md!*\n\n*👉━━👉*CREATOR INFO*👉━━👈*\n\n\n *💥NAME: _këvøø tech_*\n*◇AGE: 20*\n*💥LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*💥FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*💥FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://instagram.com/Ibrahim_tech_official*\n*◇Twitter: https://twitter.com/Ibrahim_adams*\n\n______________________________\n\n*🚖KEEP USING këvøø-MD🚖*\n\n\n_The following are my contacts_:\n:";
+    let message = "its këvøø md here\n *Welcome to këvøø-Md!*\n\n*👉~~👉*CREATOR INFO*👉~~👈*\n\n\n *💥NAME: _këvøø tech_*\n*◇AGE: 20*\n*💥LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*💥FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*💥FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://instagram.com/Ibrahim_tech_official*\n*◇Twitter: https://twitter.com/Ibrahim_adams*\n\n______________________________\n\n*🚖KEEP USING këvøø-MD🚖*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
