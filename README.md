@@ -1,5 +1,5 @@
-Hi there i'm Kévøø😜-md whatsapop bot
-click on "https://github.com/kevoomedia/K-v--Md.git"/> to get repo
+*Hi there i'm Këvøø-md whatsapop bot*
+click on "https://github.com/kevoomedia/K-v--Md"/> to get repo
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center"> Këvøø-Md </h1>
@@ -7,7 +7,7 @@ click on "https://github.com/kevoomedia/K-v--Md.git"/> to get repo
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Black&lines=THANK+YOU+FOR+CHOOSING+Kévøø+Md/>Whatsapp+bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Black&lines=THANK+YOU+FOR+CHOOSING+Kévøø+Md)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
@@ -52,10 +52,10 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/kevoomedia/K-v--Md/blob/main/K%C3%ABv%C3%B8%C3%B8%F0%9F%98%9C.md)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/kevoomedia/K-v--Md/fork)
 
-2, TAP ON Këvøø TECH APP DOWN THERE
-
+2, *TAP ON Këvøø TECH APP DOWN THERE TO DEPLOY ON HEROKU*
+[`Deploy on heroku`](https://dashboard.heroku.com/new?template=https://github.com/kevoomedia/K-v--Md)
 
 
 3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
