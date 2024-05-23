@@ -1,5 +1,5 @@
-Hi there i'm Kévøø😜-md whatsapop bot
-click on "https://github.com/kevoomedia/K-v--Md.git"/> to get repo
+Hi there i'm Këvøø-Md whatsapop bot
+click on "https://github.com/kevoomedia/K-v--Md"/> to get repo
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center"> Këvøø-Md </h1>
@@ -7,7 +7,7 @@ click on "https://github.com/kevoomedia/K-v--Md.git"/> to get repo
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Black&lines=THANK+YOU+FOR+CHOOSING+Kévøø+Md/>Whatsapp+bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Black&lines=THANK+YOU+FOR+CHOOSING+Kévøø+Md)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
@@ -80,7 +80,7 @@ HOW TO REACH THE OWNER?
 
 
   ***<p align="center"><a href="https://kévøø-code-app-c1168f4953cd.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20Këvøø%20TECH%20APP-Yellow?style=for-the-badge&logo=Këvøø" width="220" height="38.45"/></a></p>***
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20Këvøø%20TECH%20APP-Blue?style=for-the-badge&logo=Këvøø" width="250" height="38.45"/></a></p>***
 
 
 
