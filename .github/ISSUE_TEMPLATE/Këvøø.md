@@ -1,7 +1,7 @@
 ---
 name: Kévøø-Md report
 about: Hi there i'm Kévøø😜-md whatsapop bot
-title: ''
+title: 'Këvøø-Md'
 labels: ''
 assignees: ''
 
@@ -13,8 +13,8 @@ A clear way to deploy Këvøø-Md
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '.Këvøø..'
-2. Click on '....'
-3. Scroll down to '....'
+2. Click on 'https://github.com/kevoomedia/K-v--Md.git'
+3. Scroll down to '..deploy on heroku..'
 4. See error
 
 **Expected behavior**
