@@ -1,9 +1,9 @@
 {
-  "name":"Kévøø😜-Md",
-  "description":"bot whatsapp développé by Kévøø",
+  "name":"Këvøø-Md",
+  "description":"bot whatsapp développé by Këvøø",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/404fdaacd6d345d368155.jpg",
-  "repository":"https://github.com/ibrahimaitech/BMW-MD",
+  "repository":"https://github.com/kevoomedia/K-v--Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-XMD",
+      "value":"këvøø-Md",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/ca5688b76af3e964f963b.jpg",
+      "value":"https://telegra.ph/file/404fdaacd6d345d368155.jpg",
       "required":false
        
      },
@@ -55,7 +55,7 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "required" :false
+     "required" :true
     },
   "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is optionnal)",
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝑴𝒓 𝑰𝒃𝒓𝒂𝒉𝒊𝒎"
+    "value": "këvøø-Md"
   },
     "NUMERO_OWNER":
   {
@@ -87,7 +87,7 @@
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "3"
+    "value": "5"
   },
   "STARTING_BOT_MESSAGE":
   {
