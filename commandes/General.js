@@ -14,7 +14,7 @@ france({ nomCom: "owner", categorie: "General", reaction: "🧔" }, async (dest,
   if (thsudo) {
      let msg = `*My Super-User*\n
      *Owner Number*\n :
-- 🌟 @${conf.NUMERO_OWNER}
+- 😜 @${conf.NUMERO_OWNER}
 
 ------ *other sudos* -----\n`
      
@@ -23,7 +23,7 @@ france({ nomCom: "owner", categorie: "General", reaction: "🧔" }, async (dest,
    for ( const sudo of sudos) {
     if (sudo) { // Vérification plus stricte pour éliminer les valeurs vides ou indéfinies
       sudonumero = sudo.replace(/[^0-9]/g, '');
-      msg += `- 💼 @${sudonumero}\n`;
+      msg += `- 😜 @${sudonumero}\n`;
     } else {return}
 
    }   const ownerjid = conf.NUMERO_OWNER.replace(/[^0-9]/g) + "@s.whatsapp.net";
@@ -64,7 +64,7 @@ france({ nomCom: "developer", categorie: "General", reaction: "🚘" }, async (d
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "Oyaah 👊\n *Welcome to BMW-Md!*\n\n*💠━━💠CREATOR INFO💠━━💠*\n\n\n *◇NAME: _Ibrahim Adams_*\n*◇AGE: 20*\n*◇LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*◇FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*◇FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://instagram.com/Ibrahim_tech_official*\n*◇Twitter: https://twitter.com/Ibrahim_adams*\n\n______________________________\n\n*🚖KEEP USING BMW-MD🚖*\n\n\n_The following are my contacts_:\n:";
+    let message = "its këvøø md here\n *Welcome to këvøø-Md!*\n\n*👉━━👉*CREATOR INFO*👉━━👈*\n\n\n *💥NAME: _këvøø tech_*\n*◇AGE: 20*\n*💥LOCATION: _On Earth_*\n*◇BELIEVER: YES ✅*\n*💥FRIENDLY: YES ✅*\n*◇EGOISTIC: _YEEES ✅_*\n*💥FAV MOVIE: _ONE EYE_*\n*◇INSTAGRAM: https://instagram.com/Ibrahim_tech_official*\n*◇Twitter: https://twitter.com/Ibrahim_adams*\n\n______________________________\n\n*🚖KEEP USING këvøø-MD🚖*\n\n\n_The following are my contacts_:\n:";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -100,7 +100,7 @@ france({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpt
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : `https://wa.me/254757835036`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `https://wa.me/255694854739`},{quoted :ms})
 
 })
  
