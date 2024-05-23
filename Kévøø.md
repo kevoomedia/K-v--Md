@@ -1,36 +1,38 @@
+Hi there i'm Këvøø😜-md whatsapop bot
+click on "https://github.com/kevoomedia/K-v--Md.git"/> to get repo
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> Kévøø Md </h1>
+ <h1 align="center"> Këvøø-Md </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗕𝗠𝗪+𝗠𝗗+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗜𝗕𝗥𝗔𝗛𝗜𝗠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Black&lines=THANK+YOU+FOR+CHOOSING+Këvøø+Md/>Whatsapp+bot)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> Kévøø😜 Md, A Simple WhatsApp user BOT, Created by Ibrahim Tech.
+<p align="center"> Këvøø-Md, A Simple WhatsApp user BOT, Created by Këvøø Tech.
 </p>
 <p align="center">
 
 
-  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/3c753002fab985c1cb1e7.jpg" alt="01" border="0" /></a>                     
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/404fdaacd6d345d368155.jpg" alt="01" border="0" /></a>                     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  <h1 align="center">  SCAN SESSION </h1>
  
 
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)***
+[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://këvøø-code-app-c1168f4953cd.herokuapp.com/pair)***)***
 
 
   
- [QR] ***[`TAP HERE TO SCAN QR`](https://bmw-code-app-c1168f4953cd.herokuapp.com/qr)***
+ [QR] ***[`TAP HERE TO SCAN QR`](https://këvøø-code-app-c1168f4953cd.herokuapp.com/qr)***
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## Support 🧧 🧧 🧧 🧧
+<a><img src='https://telegra.ph/file/88ad273e040f262fe69ad.jpg'/></a>
+## Support 😜 😜 😜 😜
 ## Join my channel for updates and get free cc
-<a href="https://whatsapp.com/channel/0029VaauR3bIHphNVGavRg2O">
-    <img alt="whatsapp Group" src="https://chat.whatsapp.com/BZmwl30gccmGYushBf9dc3" />
+<a href="https://whatsapp.com/channel/0029VaauR3bIHphNVGavRg2O" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -50,9 +52,9 @@ HOW TO REACH THE OWNER?
 ## STEPS TO DEPLOY YOUR BOT
 
 
-1, Star the repo up there then click Here To  [`FORK`](https://github.com/ibrahimaitech/BMW-MD/fork)
+1, Star the repo up there then click Here To  [`FORK`](https://github.com/kevoomedia/K-v--Md/fork)
 
-2, TAP ON IBRAHIM TECH APP DOWN THERE
+2, TAP ON Këvøø TECH APP DOWN THERE
 
 
 
@@ -60,7 +62,7 @@ HOW TO REACH THE OWNER?
 
 
 
-4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Ibrahim Tech App..
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Këvøø Tech App..
 
 ## 𝘾𝙇𝙄𝘾𝙆 𝗢𝗡 HEROKU OR 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬  𝘽𝙈𝙒 𝙈𝘿
 
@@ -69,7 +71,7 @@ HOW TO REACH THE OWNER?
 
  <h1 align="center">
 
-  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BMW-MD)***
+  ***[`TAP HERE TO DEPLOY ON HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/kevoomedia/K-v--Md)***
 
 
 
@@ -77,8 +79,8 @@ HOW TO REACH THE OWNER?
 
 
 
-  ***<p align="center"><a href="https://bmw-code-app-c1168f4953cd.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20IBRAHIM%20TECH%20APP-Yellow?style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>***
+  ***<p align="center"><a href="https://këvøø-code-app-c1168f4953cd.herokuapp.com/">
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20Këvøø%20TECH%20APP-Yellow?style=for-the-badge&logo=Këvøø" width="220" height="38.45"/></a></p>***
 
 
 
@@ -93,14 +95,14 @@ HOW TO REACH THE OWNER?
 ## Contributions
 
 
-Contributions to *Kévøø😜-Md* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions to *Këvøø-Md* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
 
 ## License
 
-The *Kévøø😜-Md* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *Këvøø-Md* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the *BMW-MD*  to enhance your Whatsapp more enjoyable
-☣Powered by Ibrahim Tech
+Enjoy the diverse features of the *Këvøø-Md*  to enhance your Whatsapp more enjoyable
+😜Powered by Këvøø Tech
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
