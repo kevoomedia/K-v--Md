@@ -6,13 +6,13 @@
   "scripts": {
     "test": "echo \"i'kevoo whatsappbot\"https://telegra.ph/file/404fdaacd6d345d368155.jpg\" && exit 1",
     "s": "node Këvøø.js",
-    "bmwmd": "pm2 start Këvøø.js --attach --max-memory-restart 490M",
+    "këvøømd": "pm2 start Këvøø.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Këvøø😜-Md",
+    "Këvøø-Md",
     "whatsapp",
     "whatsapp-bot",
     "Këvøø"
