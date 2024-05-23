@@ -1,23 +1,23 @@
 {
-  "name": "Kévøø😜-Md",
+  "name": "këvøø-Md",
   "version": "2.0.0",
   "description": "",
-  "main": "Kévøø.js",
+  "main": "Këvøø.js",
   "scripts": {
     "test": "echo \"i'kevoo whatsappbot\"https://telegra.ph/file/404fdaacd6d345d368155.jpg\" && exit 1",
-    "s": "node Kévøø.js",
-    "bmwmd": "pm2 start Kévøø.js --attach --max-memory-restart 490M",
+    "s": "node Këvøø.js",
+    "bmwmd": "pm2 start Këvøø.js --attach --max-memory-restart 490M",
     "c": "tsc"
   },
   "keywords": [
     "bot",
     "Baileys",
-    "Kévøø😜-Md",
+    "Këvøø😜-Md",
     "whatsapp",
     "whatsapp-bot",
-    "Kévøø"
+    "Këvøø"
   ],
-  "author": "Kévøøtech",
+  "author": "Këvøøtech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
