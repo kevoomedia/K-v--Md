@@ -1,18 +1,18 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Kévøø-Md report
+about: Hi there i'm Kévøø😜-md whatsapop bot
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Here Këvøø-Md**
+A clear way to deploy Këvøø-Md
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to '...'
+1. Go to '.Këvøø..'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
