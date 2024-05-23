@@ -21,7 +21,7 @@ click on "https://github.com/kevoomedia/K-v--Md.git"/> to get repo
  <h1 align="center">  SCAN SESSION </h1>
  
 
-[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://kévøø-code-app-c712682559cd.herokuapp.com/pair)***
+[PAIRING CODE]  ***[`TAP HERE TO SCAN PAIRING CODE`](https://bmw-code-app-c1168f4953cd.herokuapp.com/pair)***)***
 
 
   
