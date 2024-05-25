@@ -1,17 +1,17 @@
-Hi there i'm Këvøø😜-md whatsapop bot
-click on "https://github.com/kevoomedia/K-v--Md.git"/> to get repo
+Hi there i'm këvøø-md whatsapop bot
+click on "https://github.com/kevoomedia/K-v--Md"/> to get repo
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
- <h1 align="center"> Këvøø-Md </h1>
+ <h1 align="center"> këvøø-Md </h1>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
       
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Black&lines=THANK+YOU+FOR+CHOOSING+Këvøø+Md/>Whatsapp+bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=Black&lines=THANK+YOU+FOR+CHOOSING+këvøø+Md/>Whatsapp+bot)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<p align="center"> Këvøø-Md, A Simple WhatsApp user BOT, Created by Këvøø Tech.
+<p align="center"> këvøø-Md, A Simple WhatsApp user BOT, Created by këvøøtëch.
 </p>
 <p align="center">
 
